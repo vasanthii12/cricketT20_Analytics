@@ -1,0 +1,2 @@
+boundary runs = fact_batting_summary[fours]*4 + fact_batting_summary[sixes]*6
+Boundary runs = fact_bowling_summary[fours]*4 +fact_bowling_summary[Sixes]*6
