@@ -28,11 +28,8 @@ The primary objective of this project is to gather, clean, and analyze player-le
 ## Repository Structure
 
 - `data/`: Contains raw and cleaned data files.
-- `notebooks/`: Jupyter notebooks for data exploration and analysis.
 - `powerbi/`: Power BI report file (`.pbix` format).
 - `scripts/`: Python scripts for web scraping and data cleaning.
-- `requirements.txt`: Python package dependencies.
-- `.gitignore`: File for excluding unnecessary files from the repository.
 
 ## Installation
 
